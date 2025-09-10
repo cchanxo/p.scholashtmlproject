@@ -8,7 +8,7 @@
     <h1>Recipes</h1>
   </header>
   <h2>Chocolate Fudge</h2>
-  <img src="https://insanelygoodrecipes.com/wp-content/uploads/2024/12/chocolate-fudge.jpg" 
+  <img src="fudge.jpg" 
        alt="Squares of rich chocolate fudge" width="300">
   <h3>Description</h3>
   <p>Rich, creamy and melt-in-your-mouth chocolate fudge made with just a few pantry staples.</p>
