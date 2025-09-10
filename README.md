@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Recipes</title>
+  <title> Recipes </title>
 </head>
 <body>
   <!-- Page Header -->
