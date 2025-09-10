@@ -5,8 +5,10 @@
   <title>Recipes</title>
 </head>
 <body>
-  <!-- Main Heading -->
-  <h1>Chocolate Fudge</h1>
+  <!-- Page Header -->
+  <header>
+    <h1>Chocolate Fudge</h1>
+  </header>
 
   <!-- Image with alt -->
   <img src="https://insanelygoodrecipes.com/wp-content/uploads/2024/12/chocolate-fudge.jpg" 
@@ -15,7 +17,7 @@
   <!-- Description -->
   <h2>Description</h2>
   <p>Rich, creamy and melt-in-your-mouth chocolate fudge made with just a few pantry staples—semi-sweet chocolate chips, sweetened condensed milk, and butter.</p>
-  <p>This easy recipe takes about 10 minutes on the stove and delivers consistently perfect results every time that’s ideal for holiday treats or gift giving. :contentReference[oaicite:2]{index=2}</p>
+  <p>This easy recipe takes about 10 minutes on the stove and delivers consistently perfect results every time that’s ideal for holiday treats or gift giving.</p>
 
   <!-- Ingredients -->
   <h2>Ingredients</h2>
@@ -30,11 +32,11 @@
   <!-- Steps -->
   <h2>Steps</h2>
   <ol>
-    <li>Line an 8x8 inch baking pan with parchment paper, leaving an overhang for easy removal.</li>
+    <li>Line an 8×8-inch baking pan with parchment paper, leaving an overhang for easy removal.</li>
     <li>Melt the chocolate chips, condensed milk, and butter over low heat, stirring constantly until smooth.</li>
     <li>Remove from heat and stir in vanilla extract and a pinch of salt if desired.</li>
     <li>Pour the mixture into the prepared pan and smooth into an even layer.</li>
-    <li>Refrigerate for at least 2 hours until firm and then use the parchment overhang to lift out and slice into squares. :contentReference[oaicite:3]{index=3}</li>
+    <li>Refrigerate for at least 2 hours until firm and then lift out and slice into squares.</li>
   </ol>
 
   <!-- More Recipes -->
