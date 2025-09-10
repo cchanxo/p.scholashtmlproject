@@ -1,4 +1,3 @@
-# p.scholashtmlproject
 <!DOCTYPE html>
 <html lang="en">
 <head>
