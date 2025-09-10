@@ -2,15 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title> Recipes </title>
+  <title>Recipes</title>
 </head>
 <body>
-  <!-- Page Header -->
   <header>
     <h1>Chocolate Fudge</h1>
   </header>
-
-  <!-- Image with alt -->
   <img src="https://insanelygoodrecipes.com/wp-content/uploads/2024/12/chocolate-fudge.jpg" 
        alt="Squares of rich chocolate fudge" width="300">
 
